@@ -4,4 +4,4 @@ Ce dossier contient tous les fichiers, images, etc. du cours _Design de l'Inform
 
 Fait par Mónica Fernández.
 
-Version 0.1. *21 septembre 2023*, Aubervilliers.
+Version 0.1., 21 septembre 2023, Aubervilliers.
