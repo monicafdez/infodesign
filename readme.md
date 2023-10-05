@@ -6,4 +6,4 @@ Pour aller sur la version live des fichiers html [c'est par ici](https://monicaf
 
 Fait par Mónica Fernández.
 
-Version 0.1., 21 septembre 2023, Aubervilliers.
+Version 0.2., 5 octobre 2023, Aubervilliers.
