@@ -1,6 +1,6 @@
 # Bienvenu.e !
 
-Nous avons le plaisir de vous inviter à l'unauguration de notre restaurant claire de lune. 
+Nous avons le plaisir de vous inviter à l'inauguration de notre restaurant claire de lune. 
 
 
 
