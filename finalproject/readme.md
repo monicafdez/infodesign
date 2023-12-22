@@ -14,8 +14,11 @@ Pour la réalisation de ce projet, nous avons utilisé l'éditeur de texte visua
 
 
 
-Pour aller sur la version live des fichiers html [c'est par ici.](https://monicafdez.github.io/infodesign/)
-
-Fait par Mónica Fernández.
+Dans notre espace [projet final](https://github.com/monicafdez/infodesign/tree/main/finalproject) vous allez y trouver tous les fichiers consernant notre projet: 
+- favicon
+- index.html
+- licence.md
+- menu.html
+- readme.html
 
 Version 0.2., 5 octobre 2023, Aubervilliers.
