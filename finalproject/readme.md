@@ -2,7 +2,7 @@
 
 Nous avons le plaisir de vous inviter à l'inauguration de notre restaurant Clair de lune. 
 
-[cliquez ici. ](https://monicafdez.github.io/infodesign/finalproject/) Pour garantir votre place à une expérience culinaire unique (version live de la page web !)
+[Cliquez ici ](https://monicafdez.github.io/infodesign/finalproject/) pour garantir votre place à une expérience culinaire unique (version live de la page web !)
 
 Soyez pret(e)s pour un décollage exceptionnel en direction vers l'espace !
 
