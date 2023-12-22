@@ -21,5 +21,9 @@ Dans notre espace [projet final](https://github.com/monicafdez/infodesign/tree/m
 - menu.html
 - readme.html
 
-Auteures:Ce projet est coréalisé par [Monica Fernandez Garcia](https://github.com/monicafdez/infodesign/tree/main)  et [Elisabeth Mendy](https://github.com/kmendy05/Design-de-l-information)
+Auteures:
+Ce projet est coréalisé par [Monica Fernandez Garcia](https://github.com/monicafdez/infodesign/tree/main)  et [Elisabeth Mendy](https://github.com/kmendy05/Design-de-l-information) étudiantes en master [GSI](https://www.univ-paris8.fr/-Master-Gestion-Strategique-de-l-Information-650-)
+
+
+
 Version 0.2., 5 octobre 2023, Aubervilliers.
