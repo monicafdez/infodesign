@@ -26,4 +26,4 @@ Ce projet est coréalisé par [Monica Fernandez Garcia](https://github.com/monic
 
 
 
-Version 0.2., 5 octobre 2023, Aubervilliers.
+Version 0.1., 21 décembre 2023, Paris.
