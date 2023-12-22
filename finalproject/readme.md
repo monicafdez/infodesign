@@ -2,9 +2,7 @@
 
 Nous avons le plaisir de vous inviter à l'inauguration de notre restaurant Clair de lune. 
 
-[Cliquez ici](https://monicafdez.github.io/infodesign/finalproject/) pour garantir votre place à une expérience culinaire unique (version live de la page web !)
-
-Soyez pret(e)s pour un décollage exceptionnel en direction vers l'espace !
+[Cliquez ici](https://monicafdez.github.io/infodesign/finalproject/) pour garantir votre place à une expérience culinaire unique (version live de la page web !). Soyez pret(e)s pour un décollage exceptionnel en direction vers l'espace !
 
 Pour la réalisation de ce projet, nous avons utilisé l'éditeur de texte visual code studio ; vous pouvez le télécharger en cliquant [ici](https://code.visualstudio.com/) et nous avons utilisé la technologie Bootstrap.
 
@@ -19,6 +17,7 @@ Dans notre espace [projet final](https://github.com/monicafdez/infodesign/tree/m
 Ainsi que les differents supports (image, texte).
 
 Auteures:
+
 Ce projet est coréalisé par [Monica Fernandez Garcia](https://github.com/monicafdez/infodesign/tree/main) et [Elisabeth Mendy](https://github.com/kmendy05/Design-de-l-information) étudiantes en master [GSI](https://www.univ-paris8.fr/-Master-Gestion-Strategique-de-l-Information-650-)
 
 Version 2, 22 décembre 2023, Paris.
