@@ -4,7 +4,7 @@ Nous avons le plaisir de vous inviter à l'inauguration de notre restaurant Clai
 
 [Cliquez ici](https://monicafdez.github.io/infodesign/finalproject/) pour garantir votre place à une expérience culinaire unique (version live de la page web !). Soyez pret(e)s pour un décollage exceptionnel en direction vers l'espace !
 
-Pour la réalisation de ce projet, nous avons utilisé l'éditeur de texte visual code studio ; vous pouvez le télécharger en cliquant [ici](https://code.visualstudio.com/) et nous avons utilisé la technologie Bootstrap.
+Pour la réalisation de ce projet, nous avons utilisé l'éditeur de texte visual code studio ; vous pouvez le télécharger en cliquant [ici](https://code.visualstudio.com/) et nous avons utilisé également la technologie Bootstrap.
 
 Dans notre espace [projet final](https://github.com/monicafdez/infodesign/tree/main/finalproject) vous allez y trouver tous les fichiers consernant notre projet: 
 - index.html
