@@ -15,6 +15,7 @@ Dans notre espace [projet final](https://github.com/monicafdez/infodesign/tree/m
 - menu.html
 - licence.md
 - readme.md
+
 Ainsi que les differents supports (image, texte).
 
 Auteures:
